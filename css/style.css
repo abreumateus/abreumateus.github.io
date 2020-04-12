@@ -130,3 +130,7 @@ li:before {
 .lightbox:target {
     display: block;
 }
+
+#particles-js {
+    height: 100vh;
+}
