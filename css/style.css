@@ -134,8 +134,8 @@ li:before {
 
 #particles-js {
     position: absolute;
-    width: 100vmax;
-    height: 100vmax;
+    width: 100vw;
+    height: 100vh;
     background-repeat: no-repeat;
     background-repeat: repeat;
     background-size: contain;
