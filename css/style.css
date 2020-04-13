@@ -134,7 +134,9 @@ li:before {
 
 #particles-js {
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
+    width: auto;
+    height: auto;
     background: black;
 }
