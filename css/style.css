@@ -1,6 +1,6 @@
 body {
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size: 20px;
+    font-size: 16px;
     line-height: 2em;
     -webkit-font-smoothing: antialiased;
     /*background-color: black;*/
@@ -75,20 +75,20 @@ li:before {
 }
 
 .content {
-    padding-bottom: 5px;
+    padding-bottom: 75px;
     text-align: justify;
     text-justify: inter-word;
 }
 
 .project-title {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
     padding-top: 10px;
     margin-bottom: -10px;
 }
 
 .project-date {
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 300;
     margin-bottom: 0px;
 }
